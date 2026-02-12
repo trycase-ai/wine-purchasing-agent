@@ -2,7 +2,7 @@
 
 **Build an AI wine purchasing agent in 5 minutes.**
 
-An open-source starter template showing how to build an autonomous wine-purchasing agent using [Claude](https://anthropic.com) and the [Case Connect](https://trycase.ai) platform.
+An open-source starter template showing how to build an autonomous wine-purchasing agent using [Claude](https://anthropic.com) and the [Case AI](https://trycase.ai) platform.
 
 The agent can search wines, check regulatory compliance across all 50 US states, verify inventory, and simulate wholesale purchases — all through natural conversation.
 
@@ -210,7 +210,7 @@ Agent: Order confirmed! Here's your summary:
 
 ## About Case Connect
 
-[Case Connect](https://trycase.ai) is the API for programmatic wine purchasing. We connect high-end wineries directly with modern retailers — better margins for both sides, guaranteed instant payment, and full regulatory compliance built in.
+[Case AI] (https://trycase.ai) is building the future of wine, more coming soon.
 
 - **Compliance API** (free): [case-ai-compliance-api.fly.dev/docs](https://case-ai-compliance-api.fly.dev/docs)
 - **API Docs**: [trycase-ai.github.io/Case-AI-Compliance-api](https://trycase-ai.github.io/Case-AI-Compliance-api/)
